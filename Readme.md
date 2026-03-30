@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Tanmay 👋<br>I’m an MCA student at KGEC (’27) with a strong interest in software development and problem-solving. I enjoy working with programming concepts, especially in areas like Data Structures, backend development, and building real-world projects.<br><br>Currently, I’m focused on improving my coding skills, exploring new technologies, and developing creative projects—including game development inspired by unique art styles.<br><br>I’m always eager to learn, build, and grow as a developer.
+Hi, I’m Tanmay Biswas 👋<br>I’m an MCA student at KGEC (’27) with a strong interest in software development and problem-solving. I enjoy working with programming concepts, especially in areas like Data Structures, backend development, and building real-world projects.<br><br>Currently, I’m focused on improving my coding skills, exploring new technologies, and developing creative projects—including game development inspired by unique art styles.<br><br>I’m always eager to learn, build, and grow as a developer.
 
 
 ## 🌐 Socials:
