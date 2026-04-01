@@ -23,9 +23,12 @@ Hi, I’m Tanmay Biswas 👋<br>I’m an MCA student at KGEC (’27) with a stro
 
 ## 🔝 Top Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmay202&repo=your-repo-name&theme=dark)](https://github.com/tanmay202/your-repo-name)
+## 🔝 Top Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmay202&repo=another-repo&theme=dark)](https://github.com/tanmay202/another-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmay202&repo=My-Backend-Journey&theme=dark)](https://github.com/tanmay202/My-Backend-Journey)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmay202&repo=chess-analysis&theme=dark)](https://github.com/tanmay202/chess-analysis)
 
 ## 💻 Languages Used
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&layout=donut&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&layout=compact&theme=dark&langs_count=6)
