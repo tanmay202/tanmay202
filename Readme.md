@@ -26,8 +26,8 @@ name: Tanmay Biswas
 college: KGEC (MCA '27)
 location: West Bengal, India
 focus: [Backend Dev, DSA, Game Development]
-currently_building: Chess Analysis Tool & Backend Projects
-currently_learning: System Design & Advanced DSA
+currently_building: Backend Projects
+currently_learning: Backend
 fun_fact: I get inspired by unique art styles for game dev 🎨
 ```
 
@@ -35,8 +35,6 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 - 🔭 Currently working on **Chess Analysis** and **Backend Projects**
 - 🌱 Exploring **System Design**, **CUDA**, and **real-time apps**
 - 🎮 Passionate about **game development** with a love for unique art styles
-- 💬 Ask me about **Data Structures, Backend Dev, or anything Python/JS**
-- ⚡ Fun fact: I find debugging more satisfying than sleeping 😅
 
 ---
 
@@ -137,7 +135,6 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
   <img alt="github-snake" src="https://raw.githubusercontent.com/tanmay202/tanmay202/output/github-snake-dark.svg" />
 </picture>
 
-> ⚙️ To enable the snake animation: go to **Settings → Actions → General → Allow all actions** and add a GitHub Actions workflow to generate it. [Guide here](https://github.com/Platane/snk).
 
 </div>
 
@@ -185,6 +182,5 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 
 **"First, solve the problem. Then, write the code." – John Johnson**
 
-*Thanks for visiting! Drop a ⭐ on any repo you find helpful!*
 
 </div>
