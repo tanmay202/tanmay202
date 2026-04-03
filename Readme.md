@@ -101,10 +101,6 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
-
-## 📊 Language Usage Across Repos
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&layout=compact&theme=dark&langs_count=6)
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -126,21 +122,6 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 
 ---
 
-## 🐍 Contribution Snake
-
-> **One-time setup:** In your `tanmay202` profile repo → **Actions** tab → enable & run the `Generate Snake` workflow. After that it auto-updates daily.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmay202/tanmay202/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmay202/tanmay202/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/tanmay202/tanmay202/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -182,6 +163,5 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
-**"First, solve the problem. Then, write the code." – John Johnson**
 
 </div>
