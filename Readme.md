@@ -103,18 +103,11 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 ---
 
 ## 📊 Language Usage Across Repos
-
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages"
-  />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanmay202&layout=compact&theme=tokyonight&langs_count=6&hide_border=true"/>
 
 </div>
-
-<br/>
-
 ---
 
 ## 📈 GitHub Stats
