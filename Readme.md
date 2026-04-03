@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Typing Animation — FIXED: closed bracket '27) added -->
+<!-- Typing Animation — FIXED: '27) bracket closed -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=false&width=620&lines=Hey+there!+I%27m+Tanmay+%F0%9F%91%8B;MCA+Student+%40+KGEC+%28%2727%29;Backend+Developer+%F0%9F%94%A7;Game+Dev+Enthusiast+%F0%9F%8E%AE;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -104,32 +104,25 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 
 ## 📊 Language Usage Across Repos
 
-> Auto-fetched from all public repositories
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&theme=tokyonight&layout=compact&langs_count=10&hide_border=false&card_width=500&cache_seconds=3600" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&theme=tokyonight&layout=donut&langs_count=8&hide_border=false&cache_seconds=3600" alt="Top Languages" />
 
 </div>
 
 <br/>
 
-<!-- Animated Language Bars — language colors match official brand colors -->
-<div align="center">
+```
+🐍 Python      ████████████████░░░░░░░░   28%
+⚡ JavaScript  █████████████░░░░░░░░░░░   22%
+⚙️ C++         ███████████░░░░░░░░░░░░░   18%
+🔷 C#          ████████░░░░░░░░░░░░░░░░   12%
+☕ Java        ██████░░░░░░░░░░░░░░░░░░   10%
+🌐 HTML        ████░░░░░░░░░░░░░░░░░░░░    6%
+🎨 CSS         ███░░░░░░░░░░░░░░░░░░░░░    4%
+```
 
-| Language | Usage |
-|:---------|:------|
-| <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> | ![Python](https://progress-bar.dev/28/?title=&color=3670A0&width=260&suffix=%) |
-| <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> | ![JavaScript](https://progress-bar.dev/22/?title=&color=F7DF1E&width=260&suffix=%) |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> | ![C++](https://progress-bar.dev/18/?title=&color=00599C&width=260&suffix=%) |
-| <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> | ![C#](https://progress-bar.dev/12/?title=&color=239120&width=260&suffix=%) |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | ![Java](https://progress-bar.dev/10/?title=&color=ED8B00&width=260&suffix=%) |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | ![HTML](https://progress-bar.dev/6/?title=&color=E34F26&width=260&suffix=%) |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | ![CSS](https://progress-bar.dev/4/?title=&color=1572B6&width=260&suffix=%) |
-
-</div>
-
-> ℹ️ *Percentages approximate — see the compact card above for live data from GitHub*
+> ℹ️ *Bar chart is approximate — the donut card above shows live % from your actual repos*
 
 ---
 
@@ -156,7 +149,7 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 
 ## 🐍 Contribution Snake
 
-> **Setup required:** Go to your `tanmay202` profile repo → **Actions** → enable the `Generate Snake` workflow. Once it runs, the snake will appear below automatically.
+> **One-time setup:** In your `tanmay202` profile repo → **Actions** tab → enable & run the `Generate Snake` workflow. After that it auto-updates daily.
 
 <div align="center">
 
@@ -185,11 +178,11 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 <div align="center">
 
 <a href="https://github.com/tanmay202/My-Backend-Journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmay202&repo=My-Backend-Journey&theme=tokyonight&cache_seconds=3600" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tanmay202&repo=My-Backend-Journey&theme=tokyonight" />
 </a>
 &nbsp;
 <a href="https://github.com/tanmay202/chess-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmay202&repo=chess-analysis&theme=tokyonight&cache_seconds=3600" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tanmay202&repo=chess-analysis&theme=tokyonight" />
 </a>
 
 </div>
