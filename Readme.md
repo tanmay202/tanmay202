@@ -105,25 +105,8 @@ fun_fact: I get inspired by unique art styles for game dev 🎨
 ## 📊 Language Usage Across Repos
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay202&theme=tokyonight&layout=donut&langs_count=8&hide_border=false&cache_seconds=3600" alt="Top Languages" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanmay202&theme=tokyonight&layout=donut&langs_count=8&hide_border=false" />
 </div>
-
-<br/>
-
-```
-🐍 Python      ████████████████░░░░░░░░   28%
-⚡ JavaScript  █████████████░░░░░░░░░░░   22%
-⚙️ C++         ███████████░░░░░░░░░░░░░   18%
-🔷 C#          ████████░░░░░░░░░░░░░░░░   12%
-☕ Java        ██████░░░░░░░░░░░░░░░░░░   10%
-🌐 HTML        ████░░░░░░░░░░░░░░░░░░░░    6%
-🎨 CSS         ███░░░░░░░░░░░░░░░░░░░░░    4%
-```
-
-> ℹ️ *Bar chart is approximate — the donut card above shows live % from your actual repos*
-
 ---
 
 ## 📈 GitHub Stats
