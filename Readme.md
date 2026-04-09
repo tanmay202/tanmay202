@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Typing Animation — FIXED: '27) bracket closed -->
+<!-- Typing Animation —  -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=false&width=620&lines=Hey+there!+I%27m+Tanmay+%F0%9F%91%8B;MCA+Student+%40+KGEC+%28%2727%29;Backend+Developer+%F0%9F%94%A7;Game+Dev+Enthusiast+%F0%9F%8E%AE;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -27,7 +27,7 @@ college: KGEC (MCA '27)
 location: West Bengal, India
 focus: [Backend Dev, DSA, Game Development]
 currently_building: Backend Projects
-currently_learning: System Design & CUDA
+currently_learning: Django
 fun_fact: I get inspired by unique art styles for game dev 🎨
 ```
 
